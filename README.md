@@ -16,7 +16,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone gamecartcart && cd gamecartcart && ember npm install && ember bower install && ember serve`
+* `git clone gamecartcart && cd gamecartcart && npm install && bower install && ember serve`
 
 ## Running / Development
 
