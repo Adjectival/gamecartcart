@@ -1,8 +1,7 @@
 # Gamecartcart :hocho::100:
 ## by Matt Reyes and Alex Jacks
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Shopping cart built in EmberCLI. Seed data has fictional or highly-collectible retro video games.
 
 ## Prerequisites
 
@@ -16,7 +15,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone https://github.com/Adjectival/gamecartcart && cd gamecartcart && npm install && bower install && ember serve`
+* `git clone https://github.com/Adjectival/gamecartcart && cd gamecartcart && npm i && bower i && ember s`
 
 ## Running / Development
 
